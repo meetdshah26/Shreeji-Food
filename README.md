@@ -19,6 +19,9 @@ A frontend React application inspired by **Swiggy**, where users can browse near
 - **HTTP Client:** Axios / Fetch API
 - **Styling:** CSS
 
-Made By MEET
+<p align="center">
+  <strong>✨ Made By MEET ✨</strong>
+</p>
+
 
 
